@@ -1,0 +1,84 @@
+#punk {
+    width: auto;
+    height: 60px;
+    color:white;
+    background-color: darkgreen;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: larger;
+    line-height: 4;
+    word-spacing: 15px;
+    
+   
+    
+}
+
+li {
+    display: inline;
+    
+    
+}
+
+h1 {
+    font-size:xx-large;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#shout {
+    width: auto;
+    height: 8px ;
+    background-color: burlywood;
+    margin-top: 0;
+
+}
+
+.words {
+    color: brown;
+    text-align: center;
+}
+
+#spike { 
+    width: auto;
+    height: 250px;
+    background-color: burlywood;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    position: relative;
+    
+    
+}
+
+#scream {
+    width: 200px;
+    height: 25px;
+    background-color: burlywood;
+    border: rgb(124, 87, 39);
+    margin-bottom: 0;
+    position: absolute;
+
+   
+
+}
+#glue {
+    width: auto;
+    height: 40px;
+    color:white;
+    background-color: darkgreen;
+    margin:0;
+    padding-top: 0;
+    text-align: center;
+   
+    
+   
+    
+}
+
+
+
+
+
+
